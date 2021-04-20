@@ -7,7 +7,7 @@ A program for applying different filters to .ppm images implemented in Visual St
 
 ### Local filters
 1. Gray (): \
-<img src="./Assignment3/Assignment3/Assignment3/Image01.ppm">
+<img src="./Image01.ppm">
 
 2. Color (): \
 
