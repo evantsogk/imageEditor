@@ -6,7 +6,7 @@ Open solution in Visual Studio and run providing the necessary command arguments
 
 ## Screenshots of filter outputs
 
-### Input image: \
+### Input image:
 <img src="./input.png">
 
 ### Local filters
