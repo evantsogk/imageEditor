@@ -13,11 +13,22 @@ Open solution in Visual Studio and run providing the necessary command arguments
 1. Gray (-f gray image01.ppm):
 <img src="./gray.png">
 
-2. Color ():
+2. Color (-f color 0.7 0.5 0.4 image01.ppm):
+You can set the RGB values. \
+<img src="./color.png">
 
 ### Neighborhood Filters
-1. Blur ():
+1. Blur (-f blur -f blur image01.ppm):
+I applied the blur filter two times to blur the image more. \
+<img src="./blur.png">
+
 
 ### Sorting Filters
-1. Diff ():
-2. Median ():
+1. Diff (-f diff image01.ppm):
+<img src="./diff.png">
+2. Median (-f median image01.ppm):
+Median is good for denoising so the image didn't change much. \
+<img src="./median.png">
+
+### Multiple filters example:
+<img src="./multiple.png">
