@@ -7,11 +7,11 @@ Open solution in Visual Studio and run providing the necessary command arguments
 ## Screenshots of filter outputs
 
 ### Input image:
-<img src="./input.ppm">
+<img src="./input.png">
 
 ### Local filters
 1. Gray (-f gray image01.ppm): \
-<img src="./gray.ppm">
+<img src="./gray.png">
 
 2. Color (): \
 
