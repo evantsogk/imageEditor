@@ -25,9 +25,9 @@ I applied the blur filter two times to blur the image more.
 
 ### Sorting Filters
 1. Diff (-f diff image01.ppm):
-<img src="./diff.png"> \
+<img src="./diff.png">
 2. Median (-f median image01.ppm): \
-Median is good for denoising so the image didn't change much.
+\ Median is good for denoising so the image didn't change much.
 <img src="./median.png">
 
 ### Multiple filters example:
