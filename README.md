@@ -18,7 +18,7 @@ You can set the RGB values. \
 <img src="./color.png">
 
 ### Neighborhood Filters
-1. Blur (-f blur -f blur image01.ppm):
+1. Blur (-f blur -f blur image01.ppm): \
 I applied the blur filter two times to blur the image more. \
 <img src="./blur.png">
 
@@ -26,10 +26,10 @@ I applied the blur filter two times to blur the image more. \
 ### Sorting Filters
 1. Diff (-f diff image01.ppm):
 <img src="./diff.png">
-2. Median (-f median image01.ppm):
+2. Median (-f median image01.ppm): \
 Median is good for denoising so the image didn't change much. \
 <img src="./median.png">
 
-### Multiple filters example:
-(-f gray -f color 0.4 0.5 0.7 -f blur -f blur -f blur image01.ppm)
+### Multiple filters example: \
+(-f gray -f color 0.4 0.5 0.7 -f blur -f blur -f blur image01.ppm) \
 <img src="./multiple.png">
