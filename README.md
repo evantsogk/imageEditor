@@ -13,7 +13,7 @@ Open solution in Visual Studio and run providing the necessary command arguments
 1. Gray (-f gray image01.ppm):
 <img src="./gray.png">
 
-2. Color (-f color 0.7 0.5 0.4 image01.ppm):
+2. Color (-f color 0.7 0.5 0.4 image01.ppm): \
 You can set the RGB values. \
 <img src="./color.png">
 
@@ -31,4 +31,5 @@ Median is good for denoising so the image didn't change much. \
 <img src="./median.png">
 
 ### Multiple filters example:
+(-f gray -f color 0.4 0.5 0.7 -f blur -f blur -f blur image01.ppm)
 <img src="./multiple.png">
