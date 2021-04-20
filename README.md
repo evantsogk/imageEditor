@@ -10,14 +10,14 @@ Open solution in Visual Studio and run providing the necessary command arguments
 <img src="./input.png">
 
 ### Local filters
-1. Gray (-f gray image01.ppm): \
+1. Gray (-f gray image01.ppm):
 <img src="./gray.png">
 
-2. Color (): \
+2. Color ():
 
 ### Neighborhood Filters
-1. Blur (): \
+1. Blur ():
 
 ### Sorting Filters
-1. Diff (): \
-2. Median (): \
+1. Diff ():
+2. Median ():
