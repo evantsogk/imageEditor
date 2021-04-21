@@ -32,3 +32,4 @@ I applied the blur filter two times to blur the image more.
 ### Multiple filters example:
 (-f gray -f color 0.4 0.5 0.7 -f blur -f blur -f blur image01.ppm) \
 <img src="./multiple.png">
+,
